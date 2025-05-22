@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.skill.me</groupId>
-	<artifactId>graphQL-in-practice</artifactId>
+	<artifactId>graphql-in-practice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>graphQL-in-practice</name>
+	<name>graphql-in-practice</name>
 	<description>Working with the GraphQL using Java Spring boot </description>
 	<url/>
 	<licenses>

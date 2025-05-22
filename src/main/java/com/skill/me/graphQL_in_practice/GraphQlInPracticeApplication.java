@@ -1,13 +1,13 @@
-package com.skill.me.graphQL_in_practice;
+package com.skill.me.graphql_in_practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GraphQlInPracticeApplication {
+public class GraphqlInPracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GraphQlInPracticeApplication.class, args);
+		SpringApplication.run(GraphqlInPracticeApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.skill.me.graphQL_in_practice;
+package com.skill.me.graphql_in_practice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GraphQlInPracticeApplicationTests {
+class GraphqlInPracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
